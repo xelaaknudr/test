@@ -1,2 +1,2 @@
+console.log("another one string");
 
-console.log("232123");
