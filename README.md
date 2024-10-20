@@ -1,4 +1,4 @@
-# test*с*новым названием
+# test_new
 
 sdfsdfsd
 sdfsdfsdf
