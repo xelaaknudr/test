@@ -1,1 +1,1 @@
-console.log("none");
+console.log("another one string");
